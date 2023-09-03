@@ -40,12 +40,12 @@ Ensure you have `Node.js` and `npm` installed on your machine. If not, download 
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-github-username/weatherapp.git
+git clone https://github.com/Sanskar-keshri/WeatherApp.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd weatherapp
+cd WeatherApp
 ```
 
 3. Install the dependencies:
